@@ -1,0 +1,6 @@
+coverage
+node_modules
+package-lock.json
+junit-reports
+.idea
+dist
